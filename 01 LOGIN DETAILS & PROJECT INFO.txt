@@ -14,8 +14,3 @@ Password: password
 Username: THR760801
 Password: PWD649976
 
-THR551884
-PWD476368
-
-THR477733
-PWD994997
